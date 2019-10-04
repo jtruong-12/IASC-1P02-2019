@@ -1,0 +1,20 @@
+body {
+  background-color:blue;
+  margin: 30px 30px 50px 30px;
+  border: black 3px solid;
+  padding: 5px 5px 0px 0px;
+}
+
+div{
+  color: red;
+  font-size: 10px;
+  text-align: left;
+  margin: 5px 5px 5px 5px;
+  border: green 1px dashed;
+}
+
+img{
+  margin: 10px 10px 0px 0px;
+  border: white 1px dashed;
+  padding:10px 10px 10px 10px;
+}

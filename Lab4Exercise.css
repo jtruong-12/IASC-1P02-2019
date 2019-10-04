@@ -1,0 +1,23 @@
+#wrapper{
+	background-color:red;
+}
+
+div p.para{
+	background-color:green;
+}
+
+div p{
+	background-color:purple
+}
+
+h2{
+	color:blue;
+}
+
+p ~ h2{
+	color:pink;
+}
+
+p + p{
+	color:orange;
+}
