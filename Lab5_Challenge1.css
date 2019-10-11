@@ -1,0 +1,34 @@
+.header{
+  background-color:red;
+  text-align:center;
+  color:white;
+  font-size:5px;
+  padding:10px 0px 10px 10px;
+  width:100%;
+}
+
+.leftside{
+  background-color:green;
+  position:fixed;
+  left:0px;
+  flex:50%;
+  height:600px;
+  width:100%;
+}
+
+p{
+  text-align:left;
+  color:white;
+  font-size:7px;
+}
+
+.footer{
+  background-color:blue;
+  position:fixed;
+  top:90%;
+  left:0px;
+  bottom:10px;
+  Width:100%;
+  color:white;
+  text-align:center;
+}
