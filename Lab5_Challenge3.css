@@ -1,0 +1,35 @@
+#green{
+  background-color:green;
+  padding: 20px 20px 500px 20px;
+  text-align:left;
+}
+
+#blue{
+  float:left;
+  background-color:blue;
+  height:200px;
+  width:200px;
+  position:relative;
+  left:20%;
+  top:0%;
+}
+
+#red{
+  float:right;
+  background-color:red;
+  height:200px;
+  width:200px;
+  position:relative;
+  right:20%;
+  top:0%;
+}
+
+#yellow{
+  background-color:yellow;
+  height:200px;
+  width:200px;
+  position:relative;
+  left:40%;
+  top:200px;
+
+}
