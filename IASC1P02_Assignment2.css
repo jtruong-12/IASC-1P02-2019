@@ -5,6 +5,7 @@
 }
 
 .pizza2{
+  color:blue;
   text-transform: uppercase;
 }
 
@@ -31,4 +32,8 @@ ol{
   color:green;
   font-family:"Arial", Times, Serif;
   font-style: italic;
+}
+
+.pizza3{
+  font-size: 15px;
 }
