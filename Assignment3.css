@@ -1,0 +1,95 @@
+#wrapper{
+    width:1265px;
+    height:1000px:
+    margin: 0 auto;
+}
+
+#header{
+    width: 1265px;
+    height: 200px;
+    background-color: violet;
+    margin: 0 auto;
+
+}
+
+#X-Ray{
+    width: 150px;
+    height: 150px;
+    padding:25px;
+}
+
+#X-RayWoman{
+  width: 150px;
+  height: 150px;
+  padding:25px;
+  float:right;
+}
+
+#title{
+  position: absolute;
+   top: 85px;
+   left: 350px;
+   color:blue;
+   font-family: "Arial", serif;
+   font-size: 30px;
+   text-transform: uppercase;
+   text-align: left;
+   margin: 0 auto;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: violet;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: blue;
+  font-weight: bold;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  text-indent: 65px;
+}
+
+
+#content{
+  margin:0 auto;
+  width:1265px;
+  height:400px;
+  background-color: blue;
+  font:15px;
+  color:violet;
+  text-align: left;
+  text-indent: 175px;
+  padding:0.05px;
+font-family: "Arial", times, serif;
+
+}
+
+#chest{
+  float:right;
+  width: 300px;
+  height:300px;
+  margin: 10px 10px 10px 10px;
+  border: violet 2px solid;
+  padding:10px 10px 10px 10px;
+
+}
+
+.address{
+  background-color:violet;
+  margin: 0 auto;
+  padding:25px 25px 25px 25px;
+  color: blue;
+  text-align: center;
+  font-family: "Arial", times, serif;
+
+}
