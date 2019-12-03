@@ -1,0 +1,200 @@
+#wrapper{
+    width:100%;
+    height:1000px:
+    margin: 0 auto;
+}
+
+#header{
+  position:absolute;
+    width: 100%;
+    height: 200px;
+    left:8px;
+    right:15px;
+    background-color: pink;
+    margin: 0 auto;
+    border: LimeGreen 5px solid;
+
+}
+
+#Candy1{
+  position:absolute;
+  left:10px;
+  width: 150px;
+  height: 150px;
+  margin: 10px 10px 0px 0px;
+  padding:10px 10px 10px 10px;
+
+}
+
+#Candy2{
+  position:absolute;
+  right:5px;
+  width: 150px;
+  height:150px;
+  margin: 10px 10px 0px 0px;
+  padding:10px 10px 10px 10px;
+  float:right;
+
+}
+
+#title{
+  position:absolute;
+   top: 40px;
+   left: 350px;
+   color:LightSeaGreen;
+   font-family: "Fantasy", serif;
+   font-size: 70px;
+   text-transform: uppercase;
+   text-align: center;
+   margin: 0 auto;
+}
+
+#motto{
+  position: absolute;
+  top: 125px;
+  left: 480px;
+  color: LightSeaGreen;
+  font-family:fantasy;
+  font-size: 25px;
+  text-align:center;
+  margin: 0 auto;
+
+}
+
+body{
+  background-color: pink;
+  margin: 0 auto;
+}
+
+.leftside{
+  position:absolute;
+  width: 200px;
+  top: 300px;
+  left: 8px;
+  background:pink;
+  overflow-x: hidden;
+  padding:10px 0;
+  border: LimeGreen 5px solid;
+
+}
+
+.left a {
+  padding: 40px 10px 50px 10px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: LightSeaGreen;
+  display:block;
+  text-align: center;
+}
+
+/* Hover selector was learnt through https://www.w3schools.com/cssref/sel_hover.asp*/
+.left a:hover{
+  background-color:LimeGreen;
+}
+
+#facebook{
+  width:30px;
+  height:30px;
+  padding:14px;
+
+}
+
+#instagram{
+  width:30px;
+  height:30px;
+  padding:14px;
+}
+
+#twitter{
+  width:30px;
+  height:30px;
+  padding:14px;
+}
+
+ .straight{
+  float:left;
+  display:inline;
+  margin: auto 0;
+  padding: 100px 8px 8px 10px;
+}
+
+#right{
+  position:absolute;
+  top:350px;
+  bottom: 200px;
+  left: 300px;
+  right: 10px;
+  width: 400px;
+  height: 100px;
+}
+
+h2{
+  position:absolute;
+  top:280px;
+  bottom: 200px;
+  left: 300px;
+  font-size: 30px;
+  color:LightSeaGreen;
+  font-family:arial;
+  text-align: center;
+}
+
+.bright{
+  color:LimeGreen;
+  font-style: italic;
+  font-family: arial;
+}
+
+.colours{
+  color:LimeGreen;
+  font-weight: bold;
+  font-family:arial;
+}
+
+.candy{
+  color:LightSeaGreen;
+  font-weight:bold;
+  text-transform: uppercase;
+  font-family:arial;
+}
+
+.candy1{
+  color:LimeGreen;
+  font-weight: bold;
+  font-family:arial;
+}
+
+.candy2{
+  font-style:italic;
+  font-family:arial;
+}
+
+p{
+  font-family:arial;
+}
+
+h4{
+  font-family:arial;
+}
+
+
+#rightimage{
+  position:absolute;
+  top:380px;
+  bottom: 200px;
+  left: 800px;
+  right: 10px;
+  width: 450px;
+  height: 450px;
+}
+
+
+.copyright{
+  position:absolute;
+  top:1000px;
+  text-align: center;
+  font-family: arial;
+  font-size: 12px;
+  border: LimeGreen 5px solid;
+}

@@ -1,0 +1,234 @@
+#wrapper{
+    width:100%;
+    height:1000px:
+    margin: 0 auto;
+}
+
+#header{
+  position:absolute;
+    width: 100%;
+    height: 200px;
+    left:8px;
+    right:15px;
+    background-color: pink;
+    margin: 0 auto;
+    border: LimeGreen 5px solid;
+
+}
+
+#Candy1{
+  position:absolute;
+  left:10px;
+  width: 150px;
+  height: 150px;
+  margin: 10px 10px 0px 0px;
+  padding:10px 10px 10px 10px;
+
+}
+
+#Candy2{
+  position:absolute;
+  right:5px;
+  width: 150px;
+  height:150px;
+  margin: 10px 10px 0px 0px;
+  padding:10px 10px 10px 10px;
+  float:right;
+
+}
+
+#title{
+  position:absolute;
+   top: 40px;
+   left: 350px;
+   color:LightSeaGreen;
+   font-family: "Fantasy", serif;
+   font-size: 70px;
+   text-transform: uppercase;
+   text-align: center;
+   margin: 0 auto;
+}
+
+#motto{
+  position: absolute;
+  top: 125px;
+  left: 480px;
+  color: LightSeaGreen;
+  font-family:fantasy;
+  font-size: 25px;
+  text-align:center;
+  margin: 0 auto;
+
+}
+
+body{
+  background-color: pink;
+  margin: 0 auto;
+}
+
+.leftside{
+  position:absolute;
+  width: 200px;
+  top: 300px;
+  left: 8px;
+  background:pink;
+  overflow-x: hidden;
+  padding:10px 0;
+  border: LimeGreen 5px solid;
+
+}
+
+.left a {
+  padding: 40px 10px 50px 10px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: LightSeaGreen;
+  display:block;
+  text-align: center;
+}
+
+/* Hover selector was learnt through https://www.w3schools.com/cssref/sel_hover.asp*/
+.left a:hover{
+  background-color:LimeGreen;
+}
+
+#facebook{
+  width:30px;
+  height:30px;
+  padding:14px;
+
+}
+
+#instagram{
+  width:30px;
+  height:30px;
+  padding:14px;
+}
+
+#twitter{
+  width:29px;
+  height:30px;
+  padding:14px;
+}
+
+ .straight{
+  float:left;
+  display:inline;
+  margin: auto 0;
+  padding: 100px 8px 8px 10px;
+}
+
+h2{
+    position:absolute;
+    top:260px;
+    bottom: 200px;
+    left: 550px;
+    font-size: 40px;
+    color:LightSeaGreen;
+    font-family:arial;
+    text-align: center;
+  }
+
+#me{
+    position:absolute;
+    left:600px;
+    top: 350px;
+    width: 200px;
+    height:200px;
+}
+
+#Jenny{
+  position:absolute;
+  left:650px;
+  top: 530px;
+  font-size: 30px;
+  font-weight: bold;
+  color:LightSeaGreen;
+  font-family:fantasy;
+  text-align: center;
+}
+
+#President{
+  position:absolute;
+  left:650px;
+  top: 570px;
+  font-size: 20px;
+  font-weight: bold;
+  color:LightSeaGreen;
+  font-family:fantasy;
+  text-align: center;
+}
+
+.para{
+  position:absolute;
+  top:630px;
+  left: 550px;
+  right: 10px;
+  width: 400px;
+  height: 100px;
+}
+
+p{
+  font-family: arial;
+}
+
+#uni{
+  color:LimeGreen;
+  font-weight: bold;
+}
+
+#cand{
+  color:LimeGreen;
+  font-style: italic;
+  font-weight:bold;
+}
+
+#easy{
+  font-style: italic;
+}
+
+#idea{
+  text-transform: uppercase;
+  color:LimeGreen;
+  font-weight: bold;
+  font-size:18px;
+}
+
+#club{
+  color:LightSeaGreen;
+  font-weight:bold;
+  text-transform: uppercase;
+}
+
+#fun{
+  position:absolute;
+  top:1050px;
+  left:550px;
+  color:LightSeaGreen;
+  font-size:30px;
+}
+
+ol{
+  position:absolute;
+  top:1100px;
+  left:530px;
+}
+
+li{
+  font-family: arial;
+}
+
+.facts{
+  color:LimeGreen;
+  font-weight: bold;
+}
+
+.copyright{
+  position:absolute;
+  top:1300px;
+  text-align: center;
+  font-family: arial;
+  font-size: 12px;
+  border: LimeGreen 5px solid;
+}
